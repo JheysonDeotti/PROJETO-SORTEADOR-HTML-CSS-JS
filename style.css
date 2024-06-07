@@ -81,3 +81,23 @@ button:active {
     opacity: 0.6;
 }
 
+@media screen and (max-width: 750px){
+    img {
+        width: 250px;
+        height: 250px;
+        display: block;
+        margin: 0 auto;
+        margin-top: 80px;
+    }
+
+    .input-final {
+        
+        display: block;
+        margin: 30px auto;
+    }
+
+    .draw-button {
+        margin-bottom: 100px;
+    }
+}
+
